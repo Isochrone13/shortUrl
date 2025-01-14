@@ -70,6 +70,7 @@
 - BASE_URL=urlcutter.com
 - DEFAULT_TTL_MINUTES=1440
 - DEFAULT_MAX_CLICKS=5
+
 В файле для хранения информации о пользователях создан базовый пользователь:
 - UUID: e316461f-e9cd-4325-b1b3-87fe1868b3e4
 - Логин: TestUser
